@@ -1,0 +1,1 @@
+ is a Node.js module is based upon standard Sugar 7 sugarapi.js library used by our Sidecar framework. It has been modified to allow it to work within a Node environment. Using this module, you'll be able to easily make Sugar 7 REST API calls from your own Node applications. Check out the README for more usage details.
